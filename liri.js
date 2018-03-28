@@ -1,30 +1,25 @@
-// Require environment variables
 require("dotenv").config();
+
+var request = require('request');
 var keys = require('./keys.js');
 
-// Require Spotify API, add .env
+
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
 
-// Require Twitter API, add .env
+
 var Twitter = require('twitter');
 var client = new Twitter(keys.twitter);
 
-// Require Node.js 'file system' module
+
 var fs = require("fs");
 
-/**
- *  Logic of program below
- */
+var command = process.argv[2];
+var search = process.argv[3];
 
-// Store value of user arguments given
-var command = process.argv[2]; // -> Which command was given?
-var search = process.argv[3]; // -> Which search term was requested?
 
-// Call function that matches value of 'command' arg passed
 commandThis(command, search);
 
-// Match the value of the command to the appropriate function calls
 function commandThis(whichCommand, whichSearch) {
     if (whichCommand == "my-tweets") {
         myTweets();
@@ -41,75 +36,71 @@ function commandThis(whichCommand, whichSearch) {
     }
 }
 
-function myTweets() {
-    // ... call Twitter API - https://www.npmjs.com/package/twitter
+// Twitter
     client.get('statuses/user_timeline', function (error, tweets, response) {
-        // Handle errors
         if (error) throw error;
-        // If no errors thrown
-        console.log(tweets); // All my tweets
-        // Then log stuff
-        var infoToLog; // Put tweets inside of this variable
-        logStuff(infoToLog);
+
+        for (let tweet of tweets) {
+          var text = tweet.text;
+          let name = tweet.user.screen_name;
+          var date = tweet.created_at;
+          logStuff(date + name + text);
+        }
     });
 }
 
+
+// Spotify
 function spotifyThis(whichSearch) {
-    // ... call Spotify API - https://www.npmjs.com/package/node-spotify-api
-    // Query Parameters
+
     var params = {
         type: 'track',
-        query: whichSearch
+        query: whichSearch,
+        limit: 1
     };
 
     spotify.search(params, function (err, data) {
-        // Handle errors
+      
         if (err) return console.log('Error occurred: ' + err);
-
-        console.log(data);
-
-        // Then log stuff
-        var infoToLog; // Put tweets inside of this variable
+        
+        var infoToLog = JSON.stringify(body, null, 2);
         logStuff(infoToLog);
     });
 }
 
-function movieThis(whichSearch) {
-    // ... call OMDB API - https://www.npmjs.com/package/request
-    // http://www.omdbapi.com/
 
-    // HINT: -> whichSearch <- was just passed in as 'The Lion King'
+// omdb
+function movieThis(whichSearch) {
+
     var queryUrl = "http://www.omdbapi.com/?apikey=trilogy&plot=short&t=" + whichSearch;
     request(queryUrl, function (error, response, body) {
         if (error) return console.log('Error occurred: ' + error);
 
         console.log(body);
 
-        // Then log stuff
-        var infoToLog; // Put tweets inside of this variable
+
+        var infoToLog = JSON.stringify(body, null, 2);
         logStuff(infoToLog);
     });
 }
 
+// it's brittany bitch
 function parseMeBabyOneMoreTime(fileToParse) {
-    // ... read fileToParse - https://nodejs.org/docs/latest-v9.x/api/fs.html#fs_fs_readfile_path_options_callback
     fs.readFile(fileToParse, "utf8", function (err, data) {
         if (err) return console.log(err);
 
-        // Break the string down by comma separation and store the contents into the output array.
-      var myArray = data.split(",");
+        var myArray = data.split(",");
 
-      // then re-call commandThis()
-      commandThis(myArray[0], myArray[1]);
+        commandThis(myArray[0], myArray[1]);
     });
 }
 
+// all the logs
 function logStuff(thingsToLog) {
     var logFile = './log.txt';
-    // ... log to file - https://nodejs.org/docs/latest-v9.x/api/fs.html#fs_fs_appendfile_file_data_options_callback
 
-  fs.appendFile(logFile, thingsToLog, (err) => {
+  fs.appendFile(logFile, ('\n' + thingsToLog), (err) => {
     if (err) throw err;
-    console.log(thingsToLog);
+    console.log('\n' + thingsToLog);
   });
 }

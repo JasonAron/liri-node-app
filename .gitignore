@@ -1,0 +1,10 @@
+# Files to be ignored go in here
+
+# super secret stuff
+.env
+
+# we dont want the in github
+node_modules
+
+# Ignore MacOS File System Stuff
+.DS_Store

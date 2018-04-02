@@ -1,1 +1,267 @@
 undefinedundefinedundefinedundefinedSun Dec 10 21:13:18 +0000 2017Working hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5KTue Oct 10 22:20:35 +0000 2017This is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJVMon Oct 09 23:35:50 +0000 2017Took me long enough to get on twitter...
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+undefined
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+undefined
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+undefined
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+"{\"Title\":\"Drive\",\"Year\":\"2011\",\"Rated\":\"R\",\"Released\":\"16 Sep 2011\",\"Runtime\":\"100 min\",\"Genre\":\"Crime, Drama\",\"Director\":\"Nicolas Winding Refn\",\"Writer\":\"Hossein Amini (screenplay), James Sallis (book)\",\"Actors\":\"Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks\",\"Plot\":\"A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.\",\"Language\":\"English, Spanish\",\"Country\":\"USA\",\"Awards\":\"Nominated for 1 Oscar. Another 77 wins & 170 nominations.\",\"Poster\":\"https://images-na.ssl-images-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SX300.jpg\",\"Ratings\":[{\"Source\":\"Internet Movie Database\",\"Value\":\"7.8/10\"},{\"Source\":\"Rotten Tomatoes\",\"Value\":\"93%\"},{\"Source\":\"Metacritic\",\"Value\":\"78/100\"}],\"Metascore\":\"78\",\"imdbRating\":\"7.8\",\"imdbVotes\":\"487,526\",\"imdbID\":\"tt0780504\",\"Type\":\"movie\",\"DVD\":\"31 Jan 2012\",\"BoxOffice\":\"$34,300,000\",\"Production\":\"FilmDistrict\",\"Website\":\"http://www.drive-movie.com/\",\"Response\":\"True\"}"
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+{"Title":"Drive","Year":"2011","Rated":"R","Released":"16 Sep 2011","Runtime":"100 min","Genre":"Crime, Drama","Director":"Nicolas Winding Refn","Writer":"Hossein Amini (screenplay), James Sallis (book)","Actors":"Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks","Plot":"A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor.","Language":"English, Spanish","Country":"USA","Awards":"Nominated for 1 Oscar. Another 77 wins & 170 nominations.","Poster":"https://images-na.ssl-images-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.8/10"},{"Source":"Rotten Tomatoes","Value":"93%"},{"Source":"Metacritic","Value":"78/100"}],"Metascore":"78","imdbRating":"7.8","imdbVotes":"487,526","imdbID":"tt0780504","Type":"movie","DVD":"31 Jan 2012","BoxOffice":"$34,300,000","Production":"FilmDistrict","Website":"http://www.drive-movie.com/","Response":"True"}
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+undefined
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+[object Object]
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+Drive
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+The Shape of Water
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+{
+  "tracks": {
+    "href": "https://api.spotify.com/v1/search?query=i%27m+not+human+at+all&type=track&offset=0&limit=1",
+    "items": [
+      {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6BpaTDEjadTL9Plx4VUKvo"
+              },
+              "href": "https://api.spotify.com/v1/artists/6BpaTDEjadTL9Plx4VUKvo",
+              "id": "6BpaTDEjadTL9Plx4VUKvo",
+              "name": "Sleep Party People",
+              "type": "artist",
+              "uri": "spotify:artist:6BpaTDEjadTL9Plx4VUKvo"
+            }
+          ],
+          "available_markets": [
+            "AD",
+            "AR",
+            "AT",
+            "AU",
+            "BE",
+            "BG",
+            "BO",
+            "BR",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "EC",
+            "EE",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GR",
+            "GT",
+            "HK",
+            "HN",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IS",
+            "IT",
+            "LI",
+            "LT",
+            "LU",
+            "LV",
+            "MC",
+            "MT",
+            "MX",
+            "MY",
+            "NI",
+            "NL",
+            "NO",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "PY",
+            "RO",
+            "SE",
+            "SG",
+            "SK",
+            "SV",
+            "TH",
+            "TR",
+            "US",
+            "UY",
+            "VN",
+            "ZA"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1t1Fa6cVtHPZ29XNyHa15B"
+          },
+          "href": "https://api.spotify.com/v1/albums/1t1Fa6cVtHPZ29XNyHa15B",
+          "id": "1t1Fa6cVtHPZ29XNyHa15B",
+          "images": [
+            {
+              "height": 632,
+              "url": "https://i.scdn.co/image/ea99a78f3d67b6a31e8ecafa6ab02d8897c74fdc",
+              "width": 640
+            },
+            {
+              "height": 296,
+              "url": "https://i.scdn.co/image/7f35a48f713f093283351f96db403de9b8eef02f",
+              "width": 300
+            },
+            {
+              "height": 63,
+              "url": "https://i.scdn.co/image/a70d0c4836074da81892cd4023dd2b65e7b33530",
+              "width": 64
+            }
+          ],
+          "name": "Sleep Party People",
+          "release_date": "2010-01-25",
+          "release_date_precision": "day",
+          "type": "album",
+          "uri": "spotify:album:1t1Fa6cVtHPZ29XNyHa15B"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6BpaTDEjadTL9Plx4VUKvo"
+            },
+            "href": "https://api.spotify.com/v1/artists/6BpaTDEjadTL9Plx4VUKvo",
+            "id": "6BpaTDEjadTL9Plx4VUKvo",
+            "name": "Sleep Party People",
+            "type": "artist",
+            "uri": "spotify:artist:6BpaTDEjadTL9Plx4VUKvo"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "EC",
+          "EE",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IS",
+          "IT",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "PY",
+          "RO",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TR",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "disc_number": 1,
+        "duration_ms": 389000,
+        "explicit": false,
+        "external_ids": {
+          "isrc": "DKHL30900509"
+        },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1QZOVF6AqgEiqoWdhcJvYo"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1QZOVF6AqgEiqoWdhcJvYo",
+        "id": "1QZOVF6AqgEiqoWdhcJvYo",
+        "name": "I’m Not Human at All",
+        "popularity": 43,
+        "preview_url": "https://p.scdn.co/mp3-preview/18adea43006f8d71aaaca2d7c7b105da442bf287?cid=01ac97dbd64c477aa7a147ea6e67c355",
+        "track_number": 9,
+        "type": "track",
+        "uri": "spotify:track:1QZOVF6AqgEiqoWdhcJvYo"
+      }
+    ],
+    "limit": 1,
+    "next": "https://api.spotify.com/v1/search?query=i%27m+not+human+at+all&type=track&offset=1&limit=1",
+    "offset": 0,
+    "previous": null,
+    "total": 4
+  }
+}
+Sun Dec 10 21:13:18 +0000 2017JasonAronArtWorking hard to get this piece finished and ready for an upcoming show! https://t.co/zBLclD1m5K
+Tue Oct 10 22:20:35 +0000 2017JasonAronArtThis is where I am at but this is not where I am going. Trying new forms of expression and and communication. https://t.co/YeeY8XxxJV
+Mon Oct 09 23:35:50 +0000 2017JasonAronArtTook me long enough to get on twitter...
+The Shape of Water
+The Shape of Water
+undefined
